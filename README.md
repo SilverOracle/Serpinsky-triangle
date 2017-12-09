@@ -1,0 +1,2 @@
+# Serpinsky-triangle
+Homework
